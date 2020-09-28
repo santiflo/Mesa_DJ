@@ -1,5 +1,6 @@
 # Mesa DJ
 
+https://github.com/santiflo/Herramientas-Multimedia
 Proyecto de Herramientas Multimedia:
 - Realizar una mesa de DJ	
 
@@ -24,3 +25,4 @@ Alcance:
 -	Control del volumen
 
 Aunque se desarrollaron las funciones para el tratamiento de sonido en PureData, al intentar ejecutar más de una acción a la vez están se interferían entre si durante la reproducción del sonio. La solución estaría en buscar una estructura de datos alternativa al estilo de POO (Programación Orientada a Objetos)
+
