@@ -1,7 +1,5 @@
 # Mesa DJ
 
-https://github.com/santiflo/Herramientas-Multimedia
-
 Proyecto de Herramientas Multimedia:
 - Realizar una mesa de DJ	
 
@@ -9,7 +7,7 @@ Integrantes:
 - Santiago Florián Bustamante
 - Laura Velásquez
 
-El siguiente proyecto es con el fin de usar algunas de las herramientas vistas en clase, y realizar una mesa de Dj para realizar una mezcla de canciones en vivo.
+El siguiente proyecto es con el fin de usar algunas de las herramientas vistas en clase (https://github.com/santiflo/Herramientas-Multimedia), y realizar una mesa de Dj para realizar una mezcla de canciones en vivo.
 
 Las herramientas usadas son:
 -	Processing: Usada para mostrar al público las acciones que realiza un DJ a la hora de realizar un set de mezclas de canciones en vivo y a hace uso de la librería racTIVision y envía los datos capturados a PureData por mediante el protocolo UDP. (https://processing.org/)
