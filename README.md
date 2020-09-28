@@ -2,6 +2,7 @@
 
 Proyecto de Herramientas Multimedia:
 - Realizar una mesa de DJ	
+
 Integrantes:
 - Santiago Florián Bustamante
 - Laura Velásquez
