@@ -1,10 +1,10 @@
 # Mesa DJ
 
 Proyecto de Herramientas Multimedia
-	Realizar una mesa de DJ	
+Realizar una mesa de DJ	
 Integrantes
-	Santiago Florián Bustamante
-	Laura Velásquez
+Santiago Florián Bustamante
+Laura Velásquez
 El siguiente proyecto es con el fin de usar algunas de las herramientas vistas en clase, y realizar una mesa de Dj para realizar una mezcla de canciones en vivo.
 
 Las herramientas usadas son:
