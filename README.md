@@ -4,8 +4,8 @@ Proyecto de Herramientas Multimedia:
 - Realizar una mesa de DJ	
 
 Integrantes:
-- Santiago Florián Bustamante
-- Laura Velásquez
+- Santiago Florián Bustamante santiflo@javerianacali.edu.co
+- Laura Velásquez lauramarcelavelasquez23@gmail.com
 
 El siguiente proyecto es con el fin de usar algunas de las herramientas vistas en clase (https://github.com/santiflo/Herramientas-Multimedia), y realizar una mesa de Dj que permita realizar una mezcla de canciones en vivo.
 
