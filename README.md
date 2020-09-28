@@ -13,6 +13,7 @@ Las herramientas usadas son:
 -	Processing: Usada para mostrar al público las acciones que realiza un DJ a la hora de realizar un set de mezclas de canciones en vivo y a hace uso de la librería racTIVision y envía los datos capturados a PureData por mediante el protocolo UDP. (https://processing.org/)
 -	racTIVision: Para la captura de los movimientos del DJ y e integrarlos a las funciones que se realizan durante una presentación en vivo. (http://reactivision.sourceforge.net/)
 -	PureData: Herramienta de programación visual, con la cual se realiza el tratamiento de sonido a las canciones que va eligiendo el DJ. (https://puredata.info/)
+
 Las acciones que puede realizar un DJ son:
 -	Reproducir/Detener una canción
 -	Control del volumen
